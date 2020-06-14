@@ -55,11 +55,6 @@ class QuizBrain {
     return checkFinished;
   }
 
-//  void reset(bool resetQuestionNumber) {
-//    if (resetQuestionNumber == true) {
-//      _questionNumber = 0;
-//    }
-//  }
   void reset() {
     _questionNumber = 0;
   }
