@@ -2,7 +2,7 @@
 
 # Quizzler ❓
 
-###Tutorial create by Dr. Angela Yu
+## Tutorial create by Dr. Angela Yu
 
 ## Our Goal
 
